@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jessica! <br/><a href="https://github.com/jessicalyons">Programmer</a>, <a href="https://www.linkedin.com/in/lyonsjessica/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCFzU0hBjOviTXLzX20IstmA">YouTuber</a></h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
   - [AD Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
