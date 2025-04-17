@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/jessicalyons)
 
-  - [Home Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Home Lab](https://github.com/jessicalyons)
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Active Directory Home Lab](https://github.com/jessicalyons)
 
 <h2> 📃 Certifications:</h2>
 
