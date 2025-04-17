@@ -17,8 +17,8 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: https://www.youtube.com/c/joshmadakor](https://www.youtube.com/channel/UCFzU0hBjOviTXLzX20IstmA
-[instagram]: https://www.instagram.com/jess.tripz/?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr#
+[youtube]: https://www.youtube.com/channel/UCFzU0hBjOviTXLzX20IstmA
+[instagram]: https://www.instagram.com/jess.tripz/
 [linkedin]: https://www.linkedin.com/in/lyonsjessica/
 
 <!--
